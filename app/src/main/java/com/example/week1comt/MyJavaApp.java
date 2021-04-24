@@ -14,6 +14,7 @@ public class MyJavaApp {
         System.out.println("the age of a student is "+studentage);
         System.out.println("the grade of chemistry is "+chemgrade);
         System.out.println("it is "+rainstopped+" that rain has stopped");
+        System.out.println("hello world");
 
 
     }
